@@ -1,0 +1,4 @@
+NAME    :    ADITYA PRAKASH
+ROLL NO :   220075
+EMAIL_ID:   paditya22@iitk.ac.in
+BRANCH  :   CE
